@@ -5,7 +5,7 @@
 ### Process:
 
 <ol>
-  <li>Me and my pall Ludjy?  We destroyed this project.  The way the ideas flowed out from our noggins was really a sight to see, especially for relatively new coders.</li>
+  <li>Me and my pal Ludjy?  We destroyed this project.  The way the ideas flowed out from our noggins was really a sight to see, especially for relatively new coders.</li>
   <li>The goal was to create and boy did we create.<li>
   <li>After making our survey questions (I used first name, last name, favorite color and animal, and last shag (heh), we invented ourselves a point system server-side in order to keep track of .</li>
   <li>Based on whatever the user was answering, the client side JS would read, assign a point value to the given response and send that back to the server in order to access a name and song from on of five JSON objects that contained that data.</li>
